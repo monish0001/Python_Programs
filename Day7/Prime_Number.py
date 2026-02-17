@@ -1,0 +1,1 @@
+# https://www.geeksforgeeks.org/problems/prime-number2314/0

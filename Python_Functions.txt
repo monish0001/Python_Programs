@@ -1,0 +1,4 @@
+str.isdigit()
+str.isupper()
+str.islower()
+str.isalpha()
