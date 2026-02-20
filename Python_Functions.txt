@@ -2,3 +2,5 @@ str.isdigit()
 str.isupper()
 str.islower()
 str.isalpha()
+
+dict={} key alsways be the Immutable obj
