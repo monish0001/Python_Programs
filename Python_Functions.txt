@@ -4,3 +4,12 @@ str.islower()
 str.isalpha()
 
 dict={} key alsways be the Immutable obj
+
+min_element=float('-inf')0
+max_element=float('inf')
+
+min(arr[0], arr[1]) -> min(arr) also works
+max(arr[0], arr[1]) -> max(arr) also works
+
+"".join(map(str, arr)) -> when array is INT
+"".join((arr))

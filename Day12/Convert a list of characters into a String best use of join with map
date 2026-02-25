@@ -1,0 +1,14 @@
+class Solution:
+    def chartostr(self, arr,N):
+        # code here
+        print("".join(arr))
+        
+        return "".join(map(str,arr))
+    
+def main():
+    arr = ['g', 'e', 'e', 'k', 's']
+    N = len(arr)
+    ob = Solution()
+    print(ob.chartostr(arr,N))
+
+if __name__=="__main__":    main()
